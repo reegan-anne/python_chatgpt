@@ -130,3 +130,6 @@ dmypy.json
 
 # Uploaded and generated images
 *.png
+
+# API keys and secrets
+secret_keys.py
